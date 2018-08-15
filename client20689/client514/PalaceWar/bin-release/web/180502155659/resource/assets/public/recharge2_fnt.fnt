@@ -1,0 +1,13 @@
+{"file":"recharge2_fnt.png","frames":{
+"0":{"x":46,"y":92,"w":20,"h":26,"offX":0,"offY":1,"sourceW":21,"sourceH":27},
+"1":{"x":47,"y":62,"w":11,"h":27,"offX":5,"offY":0,"sourceW":21,"sourceH":27},
+"2":{"x":70,"y":1,"w":21,"h":26,"offX":0,"offY":1,"sourceW":21,"sourceH":27},
+"3":{"x":24,"y":92,"w":20,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"4":{"x":47,"y":1,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"5":{"x":54,"y":30,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"6":{"x":1,"y":63,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"7":{"x":24,"y":63,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"8":{"x":1,"y":92,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"9":{"x":31,"y":33,"w":21,"h":27,"offX":0,"offY":0,"sourceW":21,"sourceH":27},
+"元":{"x":1,"y":33,"w":28,"h":28,"offX":2,"offY":0,"sourceW":30,"sourceH":30},
+"宝":{"x":1,"y":1,"w":29,"h":30,"offX":0,"offY":0,"sourceW":30,"sourceH":30}}}

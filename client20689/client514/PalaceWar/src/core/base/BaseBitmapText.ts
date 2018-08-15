@@ -1,0 +1,69 @@
+/**
+ * author 陈可
+ * date 2017/9/4
+ * @class BaseBitmapText
+ */
+class BaseBitmapText extends egret.BitmapText implements base.Iinteractive,base.Ibase
+{
+	public bindData: any = null;
+    private _touchTapHelper: TouchHelper.Tap = null;
+	private _touchHelper:TouchHelper.Touch=null;
+	public constructor() 
+	{
+		super();
+	}
+
+	/**
+     * 添加触摸回调
+     */ 
+    public addTouchTap(touchHandler:(event: egret.TouchEvent, ...args: any[]) => void,touchHandlerParams:any[],touchHandlerThisObj:any)
+    {
+        if(this._touchTapHelper==null)
+        {
+            this._touchTapHelper = TouchHelper.addTouchTap(this, touchHandler,touchHandlerThisObj,touchHandlerParams);
+        }
+    }
+    /**
+     * 移除触摸
+     */ 
+    public removeTouchTap()
+    {
+        if(this._touchTapHelper)
+        {
+            this._touchTapHelper.removeTouchTap();
+            this._touchTapHelper = null;
+        }
+    }
+
+	/**
+     * 设置坐标
+     */ 
+    public setPosition(posX:number,posY:number)
+    {
+        this.x = posX;
+        this.y = posY;
+    }
+
+	public stopAllActions() 
+    {
+        egret.Tween.removeTweens(this);
+    }
+
+	public setVisible(visible:boolean)
+	{
+		this.visible=visible;
+	}
+    public setScale(scale:number):void
+    {
+        this.scaleX=this.scaleY=scale;
+    }
+	/**
+     * 销毁对象
+     */ 
+     public dispose()
+    {
+        this.stopAllActions();
+        this.removeTouchTap();
+        this.bindData=null;
+    }
+}

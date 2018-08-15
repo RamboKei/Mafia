@@ -1,0 +1,7 @@
+{"file":"alliance_create_ani.png","frames":{
+"alliance_create_ani_1":{"x":180,"y":1,"w":64,"h":62,"offX":56,"offY":60,"sourceW":177,"sourceH":173},
+"alliance_create_ani_2":{"x":1,"y":1,"w":177,"h":173,"offX":0,"offY":0,"sourceW":177,"sourceH":173},
+"alliance_create_ani_3":{"x":1,"y":176,"w":139,"h":139,"offX":21,"offY":19,"sourceW":177,"sourceH":173},
+"alliance_create_ani_4":{"x":142,"y":176,"w":111,"h":102,"offX":33,"offY":33,"sourceW":177,"sourceH":173},
+"alliance_create_ani_5":{"x":121,"y":317,"w":118,"h":137,"offX":31,"offY":13,"sourceW":177,"sourceH":173},
+"alliance_create_ani_6":{"x":1,"y":317,"w":118,"h":145,"offX":33,"offY":8,"sourceW":177,"sourceH":173}}}

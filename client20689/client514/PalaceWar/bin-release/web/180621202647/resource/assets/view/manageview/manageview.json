@@ -1,0 +1,13 @@
+{"file":"manageview.png","frames":{
+"btn_manage_normal_down":{"x":417,"y":0,"w":84,"h":96,"offX":5,"offY":5,"sourceW":94,"sourceH":106},
+"btn_manage_normal":{"x":331,"y":0,"w":84,"h":96,"offX":5,"offY":5,"sourceW":94,"sourceH":106},
+"btn_manage_red_down":{"x":235,"y":0,"w":94,"h":106,"offX":0,"offY":0,"sourceW":94,"sourceH":106},
+"btn_manage_red":{"x":139,"y":0,"w":94,"h":106,"offX":0,"offY":0,"sourceW":94,"sourceH":106},
+"manage_boomtext":{"x":0,"y":0,"w":137,"h":75,"offX":0,"offY":3,"sourceW":137,"sourceH":81},
+"manage_foodname":{"x":139,"y":108,"w":29,"h":50,"offX":0,"offY":1,"sourceW":29,"sourceH":52},
+"manage_goldname":{"x":170,"y":108,"w":28,"h":51,"offX":1,"offY":1,"sourceW":29,"sourceH":52},
+"manage_managetxt":{"x":443,"y":98,"w":61,"h":28,"offX":1,"offY":1,"sourceW":63,"sourceH":30},
+"manage_namebg":{"x":331,"y":98,"w":45,"h":91,"offX":0,"offY":0,"sourceW":45,"sourceH":91},
+"manage_recoverytxt":{"x":378,"y":98,"w":63,"h":30,"offX":0,"offY":0,"sourceW":63,"sourceH":30},
+"manage_soldiername":{"x":200,"y":108,"w":26,"h":50,"offX":2,"offY":2,"sourceW":29,"sourceH":52},
+"manage_waittime":{"x":0,"y":77,"w":137,"h":53,"offX":0,"offY":0,"sourceW":140,"sourceH":53}}}

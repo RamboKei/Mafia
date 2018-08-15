@@ -1,0 +1,6 @@
+{"file":"dailybossview.png","frames":{
+"btn_dailyboss_down":{"x":0,"y":353,"w":128,"h":130,"offX":0,"offY":0,"sourceW":128,"sourceH":130},
+"btn_dailyboss":{"x":0,"y":221,"w":128,"h":130,"offX":0,"offY":0,"sourceW":128,"sourceH":130},
+"dailyboss_enter":{"x":0,"y":0,"w":187,"h":219,"offX":0,"offY":0,"sourceW":187,"sourceH":219},
+"dailyboss_ranktxt":{"x":130,"y":268,"w":81,"h":26,"offX":0,"offY":19,"sourceW":81,"sourceH":61},
+"dailyboss_scoretxt":{"x":130,"y":221,"w":79,"h":45,"offX":1,"offY":9,"sourceW":81,"sourceH":61}}}

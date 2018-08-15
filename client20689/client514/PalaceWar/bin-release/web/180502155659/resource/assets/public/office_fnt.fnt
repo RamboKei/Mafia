@@ -1,0 +1,13 @@
+{"file":"office_fnt.png","frames":{
+"八":{"x":1,"y":103,"w":34,"h":21,"offX":0,"offY":8,"sourceW":34,"sourceH":34},
+"从":{"x":68,"y":1,"w":30,"h":33,"offX":2,"offY":1,"sourceW":34,"sourceH":34},
+"二":{"x":93,"y":70,"w":31,"h":28,"offX":1,"offY":4,"sourceW":34,"sourceH":34},
+"九":{"x":1,"y":1,"w":33,"h":33,"offX":0,"offY":0,"sourceW":34,"sourceH":34},
+"六":{"x":1,"y":36,"w":29,"h":34,"offX":2,"offY":0,"sourceW":34,"sourceH":34},
+"品":{"x":32,"y":68,"w":29,"h":33,"offX":3,"offY":1,"sourceW":34,"sourceH":34},
+"七":{"x":32,"y":37,"w":33,"h":29,"offX":1,"offY":3,"sourceW":34,"sourceH":34},
+"三":{"x":68,"y":36,"w":30,"h":32,"offX":2,"offY":1,"sourceW":34,"sourceH":34},
+"四":{"x":93,"y":100,"w":34,"h":25,"offX":0,"offY":6,"sourceW":34,"sourceH":34},
+"五":{"x":36,"y":1,"w":30,"h":34,"offX":2,"offY":0,"sourceW":34,"sourceH":34},
+"一":{"x":37,"y":106,"w":34,"h":19,"offX":0,"offY":10,"sourceW":34,"sourceH":34},
+"正":{"x":63,"y":70,"w":28,"h":34,"offX":3,"offY":0,"sourceW":34,"sourceH":34}}}

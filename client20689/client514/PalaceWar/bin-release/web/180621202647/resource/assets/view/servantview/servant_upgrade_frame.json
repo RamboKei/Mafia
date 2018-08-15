@@ -1,0 +1,6 @@
+{"file":"servant_upgrade_frame.png","frames":{
+"servant_upgrade_frame1":{"x":203,"y":193,"w":196,"h":148,"offX":12,"offY":58,"sourceW":213,"sourceH":208},
+"servant_upgrade_frame2":{"x":0,"y":191,"w":201,"h":181,"offX":12,"offY":27,"sourceW":213,"sourceH":208},
+"servant_upgrade_frame3":{"x":0,"y":0,"w":201,"h":189,"offX":12,"offY":16,"sourceW":213,"sourceH":208},
+"servant_upgrade_frame4":{"x":203,"y":0,"w":195,"h":191,"offX":12,"offY":0,"sourceW":213,"sourceH":208},
+"servant_upgrade_frame5":{"x":400,"y":0,"w":82,"h":174,"offX":65,"offY":4,"sourceW":213,"sourceH":208}}}

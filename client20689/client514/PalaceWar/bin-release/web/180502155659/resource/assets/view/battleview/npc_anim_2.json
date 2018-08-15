@@ -1,0 +1,17 @@
+{"file":"npc_anim_2.png","frames":{
+"npc2_attack_1":{"x":734,"y":95,"w":170,"h":99,"offX":44,"offY":89,"sourceW":310,"sourceH":233},
+"npc2_attack_2":{"x":1,"y":139,"w":119,"h":130,"offX":84,"offY":57,"sourceW":310,"sourceH":233},
+"npc2_attack_3":{"x":920,"y":1,"w":99,"h":155,"offX":109,"offY":35,"sourceW":310,"sourceH":233},
+"npc2_attack_4":{"x":734,"y":1,"w":184,"h":92,"offX":7,"offY":104,"sourceW":310,"sourceH":233},
+"npc2_be_hit_1":{"x":876,"y":196,"w":146,"h":94,"offX":82,"offY":92,"sourceW":310,"sourceH":233},
+"npc2_curse_1":{"x":176,"y":1,"w":193,"h":104,"offX":20,"offY":84,"sourceW":310,"sourceH":233},
+"npc2_curse_2":{"x":1,"y":1,"w":173,"h":136,"offX":40,"offY":52,"sourceW":310,"sourceH":233},
+"npc2_death":{"x":122,"y":204,"w":159,"h":76,"offX":46,"offY":140,"sourceW":310,"sourceH":233},
+"npc2_move_1":{"x":542,"y":103,"w":169,"h":92,"offX":29,"offY":92,"sourceW":310,"sourceH":233},
+"npc2_move_2":{"x":371,"y":103,"w":169,"h":93,"offX":26,"offY":96,"sourceW":310,"sourceH":233},
+"npc2_move_3":{"x":176,"y":107,"w":163,"h":95,"offX":32,"offY":93,"sourceW":310,"sourceH":233},
+"npc2_move_4":{"x":542,"y":197,"w":148,"h":92,"offX":41,"offY":92,"sourceW":310,"sourceH":233},
+"npc2_move_5":{"x":341,"y":198,"w":138,"h":97,"offX":47,"offY":96,"sourceW":310,"sourceH":233},
+"npc2_move_6":{"x":713,"y":196,"w":161,"h":95,"offX":34,"offY":93,"sourceW":310,"sourceH":233},
+"npc2_shadow":{"x":371,"y":1,"w":189,"h":100,"offX":34,"offY":88,"sourceW":310,"sourceH":233},
+"npc2_standby":{"x":562,"y":1,"w":170,"h":100,"offX":44,"offY":88,"sourceW":310,"sourceH":233}}}

@@ -1,0 +1,17 @@
+{"file":"adultview.png","frames":{
+"adult_attbg":{"x":272,"y":621,"w":152,"h":32,"offX":0,"offY":0,"sourceW":152,"sourceH":32},
+"adult_bg":{"x":0,"y":0,"w":640,"h":437,"offX":0,"offY":0,"sourceW":640,"sourceH":437},
+"adult_boy":{"x":642,"y":0,"w":332,"h":375,"offX":0,"offY":0,"sourceW":332,"sourceH":375},
+"adult_girl":{"x":642,"y":377,"w":281,"h":365,"offX":29,"offY":10,"sourceW":332,"sourceH":375},
+"adult_inmarry":{"x":494,"y":439,"w":46,"h":62,"offX":0,"offY":0,"sourceW":46,"sourceH":62},
+"adult_lovebg":{"x":0,"y":439,"w":278,"h":166,"offX":10,"offY":0,"sourceW":288,"sourceH":166},
+"adult_namebg":{"x":542,"y":439,"w":33,"h":76,"offX":0,"offY":0,"sourceW":33,"sourceH":76},
+"adult_q1":{"x":976,"y":0,"w":43,"h":83,"offX":0,"offY":0,"sourceW":44,"sourceH":83},
+"adult_q2":{"x":925,"y":377,"w":40,"h":83,"offX":2,"offY":0,"sourceW":44,"sourceH":83},
+"adult_q3":{"x":976,"y":336,"w":42,"h":80,"offX":2,"offY":0,"sourceW":44,"sourceH":83},
+"adult_q4":{"x":976,"y":85,"w":44,"h":81,"offX":0,"offY":1,"sourceW":44,"sourceH":83},
+"adult_q5":{"x":976,"y":168,"w":43,"h":82,"offX":0,"offY":1,"sourceW":44,"sourceH":83},
+"adult_q6":{"x":976,"y":252,"w":43,"h":82,"offX":0,"offY":1,"sourceW":44,"sourceH":83},
+"adult_q7":{"x":967,"y":418,"w":41,"h":81,"offX":1,"offY":1,"sourceW":44,"sourceH":83},
+"adult_smallbg":{"x":280,"y":439,"w":212,"h":180,"offX":0,"offY":0,"sourceW":212,"sourceH":180},
+"adult_updtitle":{"x":0,"y":607,"w":270,"h":84,"offX":0,"offY":0,"sourceW":276,"sourceH":84}}}

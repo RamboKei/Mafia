@@ -1,0 +1,8 @@
+{"file":"battle_attack_anim.png","frames":{
+"atk_anim_1":{"x":1,"y":1,"w":350,"h":283,"offX":0,"offY":0,"sourceW":420,"sourceH":283},
+"atk_anim_2":{"x":1,"y":286,"w":283,"h":280,"offX":67,"offY":2,"sourceW":420,"sourceH":283},
+"atk_anim_3":{"x":1,"y":568,"w":268,"h":234,"offX":70,"offY":17,"sourceW":420,"sourceH":283},
+"atk_anim_4":{"x":286,"y":286,"w":219,"h":231,"offX":103,"offY":15,"sourceW":420,"sourceH":283},
+"atk_anim_5":{"x":286,"y":519,"w":217,"h":219,"offX":102,"offY":18,"sourceW":420,"sourceH":283},
+"atk_anim_6":{"x":271,"y":740,"w":190,"h":222,"offX":107,"offY":18,"sourceW":420,"sourceH":283},
+"atk_anim_7":{"x":1,"y":804,"w":179,"h":175,"offX":111,"offY":67,"sourceW":420,"sourceH":283}}}
